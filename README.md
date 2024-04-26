@@ -1,5 +1,5 @@
 # my_first_calculator.py
-I initially saw [Al Sweigart](https://github.com/asweigart)'s [my_first_tic_tac_toe](https://github.com/asweigart/my_first_tic_tac_toe) and was amused. I then saw the image shown below posted on Reddit. Assuming that the image was not made up for some fake internet points and also assuming that their friend only used addition, subtraction, multiplication and division then the number of numbers that they would have if statements for would be...
+I initially saw [Al Sweigart](https://github.com/asweigart)'s [my_first_tic_tac_toe](https://github.com/asweigart/my_first_tic_tac_toe) and was amused. I then saw the image shown below posted on Reddit. Assuming that the image was not made up for some fake internet points and also assuming that their friend only used addition, subtraction, multiplication and division then the number of numbers that they would have if statements for would be... Ali and Hassan
 
     sqrt(9500/4) = 48.7339...
     sqrt(9500/4) ≈ 50 
